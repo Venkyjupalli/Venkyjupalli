@@ -163,7 +163,8 @@ https://www.linkedin.com/in/jupallevenkat/
 
 🌍 Portfolio
 
-https://venkyjupalli.github.io/my-portfolio/
+https://venkyjupalli.github.io/portfolio-website/
+
 
 🐙 GitHub
 
