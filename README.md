@@ -48,7 +48,7 @@ Modern full-stack portfolio built using HTML, CSS, JavaScript, Node.js, Express,
 
 🔗 Live Demo
 
-https://venkyjupalli.github.io/my-portfolio/
+https://venkyjupalli.github.io/portfolio-website/
 
 ---
 
